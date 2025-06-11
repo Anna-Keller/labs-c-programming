@@ -9,12 +9,12 @@ This repository contains structured **lab reports** (in Russian) and **C/C++ sou
 
 ## 🗂️ Contents
 
-| Lab | Topic                              | Code File             | Report File (.docx)          |
-|-----|------------------------------------|------------------------|-------------------------------|
-| 3   | Branching logic, max/min           | [`lab3.cpp`](src/lab3.cpp)     | [`lab3_report.docx`](reports/lab3_report.docx)     |
-| 4   | Numeric sequence processing        | [`lab4.cpp`](src/lab4.cpp)     | [`lab4_report.docx`](reports/lab4_report.docx)     |
-| 5   | Array processing                   | [`lab5.cpp`](src/lab5.cpp)     | [`lab5_report.docx`](reports/lab5_report.docx)     |
-| 6   | Modular programming (functions)    | [`lab6.cpp`](src/lab6.cpp)     | [`lab6_report.docx`](reports/lab6_report.docx)     |
+| Lab | Topic                              | Code (.cpp)                | Report (.pdf)                          | Report (.docx)                          |
+|-----|------------------------------------|-----------------------------|----------------------------------------|-----------------------------------------|
+| 3   | Branching logic, max/min           | [`lab3.cpp`](src/lab3.cpp) | [`lab3_report.pdf`](reports/lab3_report.pdf) | [`lab3_report.docx`](reports/lab3_report.docx) |
+| 4   | Numeric sequence processing        | [`lab4.cpp`](src/lab4.cpp) | [`lab4_report.pdf`](reports/lab4_report.pdf) | [`lab4_report.docx`](reports/lab4_report.docx) |
+| 5   | Array processing                   | [`lab5.cpp`](src/lab5.cpp) | [`lab5_report.pdf`](reports/lab5_report.pdf) | [`lab5_report.docx`](reports/lab5_report.docx) |
+| 6   | Modular programming (functions)    | [`lab6.cpp`](src/lab6.cpp) | [`lab6_report.pdf`](reports/lab6_report.pdf) | [`lab6_report.docx`](reports/lab6_report.docx) |
 
 ---
 
