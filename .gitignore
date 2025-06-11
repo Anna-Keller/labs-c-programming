@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Word temporary autosaves
+~$*
+
+# Compiled binaries (C/C++)
+*.exe
+*.out
+*.o
+
+# Backup files
+*.bak
+*.tmp
