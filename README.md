@@ -28,8 +28,9 @@ This repository contains structured **lab reports** (in Russian) and **C/C++ sou
 
 **Title:** Function Approximation Using the Least Squares Method  
 **Description:** Implements function approximation using the least squares method and solving linear systems via iterative methods.  
-📄 [View Report (PDF)](reports/Function Approximation Using the Least Squares Method.pdf)  
-💻 [View Code](src/Function Approximation Using the Least Squares Method.cpp)
+📄 [View Report (PDF)](reports/course_project.pdf)  
+💻 [View Code](src/course_project.cpp)
+
 
 ---
 
