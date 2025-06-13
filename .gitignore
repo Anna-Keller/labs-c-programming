@@ -12,3 +12,7 @@
 # Backup files
 *.bak
 *.tmp
+
+# Word files
+*.doc
+*.docx
